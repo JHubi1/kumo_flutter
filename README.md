@@ -37,7 +37,7 @@ Requires Flutter 3.38 or newer. Inter, JetBrains Mono and the Phosphor icon font
 ## Quick start
 
 ```dart
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:kumo_flutter/kumo_flutter.dart';
 
 void main() => runApp(const App());

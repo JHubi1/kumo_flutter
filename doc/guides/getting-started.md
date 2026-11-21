@@ -15,7 +15,7 @@ Flutter 3.38 or newer. Inter, JetBrains Mono and the Phosphor icon fonts are bun
 `KumoThemeProvider` resolves light or dark mode, provides `context.kumo` and sets the default text style. Put it above `MaterialApp` and use `kumoMaterialTheme` so the Material widgets you still use (Scaffold, scroll bars, text selection) match Kumo.
 
 ```dart
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:kumo_flutter/kumo_flutter.dart';
 
 void main() => runApp(const App());

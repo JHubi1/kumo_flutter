@@ -15,7 +15,7 @@ API_ERRORS = {
 HEADER = """// ignore_for_file: type=lint, unused_local_variable, unused_element, dead_code
 import 'dart:async';
 import 'package:kumo_flutter/kumo_flutter.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter/services.dart';
 """
 

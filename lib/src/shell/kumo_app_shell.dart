@@ -4,7 +4,7 @@ import 'dart:math' as math;
 // this import. This package still supports Flutter 3.38, where `material_ui`
 // does not exist; switch the import when the minimum Flutter version moves.
 // ignore: deprecated_member_use
-import 'package:flutter/material.dart' show Material, MaterialType;
+import 'package:material_ui/material_ui.dart' show Material, MaterialType;
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 

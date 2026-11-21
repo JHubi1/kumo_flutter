@@ -15,7 +15,7 @@ import 'package:kumo_flutter/kumo_flutter.dart';
 Place one `KumoToaster` near the root, above the navigator, then raise toasts from anywhere below it.
 
 ```dart
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:kumo_flutter/kumo_flutter.dart';
 
 void main() {

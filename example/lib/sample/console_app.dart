@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:clock/clock.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:kumo_flutter/kumo_flutter.dart';
 
 import '../gallery/settings_scope.dart';
